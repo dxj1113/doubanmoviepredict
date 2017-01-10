@@ -9,7 +9,7 @@ from setuptools import setup, find_packages
 setup(
     name="spider",
     version="1.9.6",
-    author="xianhu",
+    author="duxijun",
     keywords=["spider", "crawler"],
     packages=find_packages(exclude=("otherfiles", "test", "test.*", "demos_*")),
     package_data={
